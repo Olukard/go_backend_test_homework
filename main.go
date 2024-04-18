@@ -1,5 +1,7 @@
 package main
 
+//комментарий для коммита
+
 import (
 	"fmt"
 )
